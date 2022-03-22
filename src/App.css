@@ -1,0 +1,33 @@
+:root {
+  --primary: #f8dddf;
+  --secondary: #79becd;
+}
+.wrapper {
+  position: relative;
+  min-height: 100vh;
+  background: linear-gradient(rgba(214, 238, 197, 0.297), #bdecf5);
+}
+.section-title {
+  margin: 5rem auto;
+  font-size: 3rem;
+  border-bottom: 5px, solid var(--primary);
+  width: 250px;
+  margin: 5rem auto;
+  text-align: center;
+}
+
+.skill-list {
+  font-size: 2rem;
+}
+
+.skill-list i {
+  font-size: 6rem;
+}
+
+.project-section {
+  background: rgb(187, 247, 226);
+}
+
+.about-me-img {
+  background: #bdecf5;
+}
